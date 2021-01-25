@@ -6,7 +6,7 @@
 
 // console.log (2952200 / 450); // Division // 
 
-console.log (8 % 3);
+// console.log (8 % 3); // Modulo //
 
 
 
